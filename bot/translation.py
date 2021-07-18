@@ -5,12 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>My name is Ruby😍. I can upload movies😝
+<i>My name is Ruby😍. Made by Sidhu. I can upload movies😝 
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Just Add Me To Your Group And Channel And Connect Them And See My Power 😜
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+For More Details Click Help Button Below👇
+@movies656
 </i>"""    
     
     HELP_TEXT = """
@@ -43,12 +43,12 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@Sidhuz_656
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> Ruby😍</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href=@Sidhuz_656</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
